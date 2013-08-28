@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TableLayout android:orientation="vertical"
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent">
+
+        <TableRow android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:background="#ffffffff" android:gravity="center" android:padding="10dp" android:text="1"/>
+            <TextView android:background="#ff654321" android:gravity="center" android:padding="10dp" android:text="2"/>
+            <TextView android:background="#fffedcba" android:gravity="center" android:padding="10dp" android:text="3"/>
+        </TableRow>
+
+        <TableRow android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:background="#ff654321" android:gravity="center" android:padding="10dp" android:text="2"/>
+            <TextView android:background="#fffedcba" android:gravity="center" android:padding="10dp" android:text="3"/>
+        </TableRow>
+
+        <TableRow android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:background="#fffedcba" android:gravity="center" android:padding="10dp" android:text="3"/>
+            <TextView android:background="#ff654321" android:gravity="center" android:padding="10dp" android:text="2"/>
+            <TextView android:background="#ffffffff" android:gravity="center" android:padding="10dp" android:text="1"/>
+        </TableRow>
+
+    </TableLayout>
+</LinearLayout>
