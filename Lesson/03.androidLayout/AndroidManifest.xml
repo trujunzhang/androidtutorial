@@ -7,10 +7,27 @@
     <application android:label="@string/app_name">
         <activity android:name="MainActivity"
                   android:label="@string/app_name">
+
+        </activity>
+
+        <activity android:name=".AbstructeLayoutActivity">
+
+
+        </activity>
+
+        <activity android:name=".FrameLayoutActivity">
+
+        </activity>
+        <activity android:name=".RelativeLayoutActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".TableLayoutActivity">
+
+        </activity>
+
+
     </application>
 </manifest> 

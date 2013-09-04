@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="GradleSettings">
-    <option name="gradleHome" value="D:\develop\java\gradle" />
-    <option name="linkedProjectPath" value="Z:/enterprisetemplate/mobile/android/enterIdAndroid/trunk/build.gradle" />
+    <option name="gradleHome" value="D:/../Documents/gradle" />
     <option name="preferLocalInstallationToWrapper" value="true" />
   </component>
 </project>

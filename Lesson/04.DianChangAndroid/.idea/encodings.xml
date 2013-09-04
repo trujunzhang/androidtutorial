@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/res/drawable/login_background.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable/login_confirm.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable/main_background.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable/main_button_background.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/xc_defalut_activity.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/xc_login_activity.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/xc_order_activity.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/values/colors.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/values/dimens.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/values/strings.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/xinma/dianchang/merge/MergeTestActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/xinma/dianchang/ui/DefalutActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/xinma/dianchang/ui/LoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/xinma/dianchang/ui/OrderActivity.java" charset="UTF-8" />
+  </component>
+</project>
+

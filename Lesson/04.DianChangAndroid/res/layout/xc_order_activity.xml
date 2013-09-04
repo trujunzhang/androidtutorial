@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@color/white">
+
+
+    <include layout="@layout/main_header"/>
+
+    <com.xinma.dianchang.widget.ScrollLayout
+            android:id="@+id/main_scrolllayout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+
+        <!--冷菜-->
+        <include layout="@layout/frame_len_cai"/>
+
+        <!--热菜-->
+        <include layout="@layout/frame_re_cai"/>
+
+        <!--汤艮-->
+        <include layout="@layout/frame_tan_geng"/>
+
+        <!--点心-->
+        <include layout="@layout/frame_dian_xing"/>
+
+        <!--主食-->
+        <include layout="@layout/frame_zhu_shi"/>
+
+        <!--酒水-->
+        <include layout="@layout/frame_jiu_sui"/>
+
+    </com.xinma.dianchang.widget.ScrollLayout>
+
+
+
+
+</LinearLayout>
