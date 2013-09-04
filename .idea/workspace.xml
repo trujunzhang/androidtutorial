@@ -2,83 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="446bb67d-84a5-4905-91a5-a3c73ed4faed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/office/Android 布局复用详解.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/libs/android-support-v4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/libs/commons-httpclient-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/drawable/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/libs/jpush-sdk-release.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/libs/armeabi/libsys.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/drawable/login_background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/drawable/login_confirm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/drawable/main_background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/drawable/main_button_background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/model/bean/AccessInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/AndroidCommon.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/api/ApiClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/utils/AppConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/src/com/xinma/dianchang/AppContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/api/AppException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/app/BaseApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/utils/Charsets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/utils/CyptoUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/src/com/xinma/dianchang/ui/DefalutActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/DianChangAndroid.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/utils/FileUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/utils/ImageUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/src/com/xinma/dianchang/ui/LoginActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/src/com/xinma/dianchang/merge/MergeTestActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/widget/OnWebViewImageListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/src/com/xinma/dianchang/ui/OrderActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/src/com/xinma/dianchang/widget/ScrollLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/utils/StringUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/widget/TextView_Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/utils/Tools.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/utils/UIHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/api/update/Update.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/src/com/xinma/common/api/update/UpdateManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/libraries/androidcommon_libs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/ant.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/frame_dian_xing.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/frame_jiu_sui.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/frame_len_cai.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/frame_re_cai.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/frame_tan_geng.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/frame_zhu_shi.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/libraries/libs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/main_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/proguard-project.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/AndroidCommon/res/layout/update_progress.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/xc_defalut_activity.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/xc_login_activity.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/xc_merge_demo_activity.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/xc_merge_include.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/xc_merge_linearlayout_include.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/04.DianChangAndroid/res/layout/xc_order_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson/03.androidLayout/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Lesson/03.androidLayout/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson/03.androidLayout/res/layout/framelayout.xml" afterPath="$PROJECT_DIR$/Lesson/03.androidLayout/res/layout/framelayout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lesson/03.androidLayout/res/layout/relativelayout.xml" afterPath="$PROJECT_DIR$/Lesson/03.androidLayout/res/layout/relativelayout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/src/com/example/intent/AndroidGlobalApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/src/com/example/intent/IndexActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/src/com/example/intent/SecondActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/androidIntent.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/ant.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/res/values/custom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/res/layout/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/res/layout/second_activity.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson/01.androidIntent/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="androidtutorial.iws" />
@@ -189,7 +137,22 @@
     <ignored path="Lesson/04.DianChangAndroid/out/production/DianChangAndroid/com/xinma/dianchang/ui/DefalutActivity.class" />
     <ignored path="Lesson/04.DianChangAndroid/out/production/DianChangAndroid/com/xinma/dianchang/ui/LoginActivity$1.class" />
     <ignored path="Lesson/04.DianChangAndroid/out/production/DianChangAndroid/com/xinma/dianchang/R$dimen.class" />
-    <file path="/Dummy.txt" changelist="446bb67d-84a5-4905-91a5-a3c73ed4faed" time="1378285861779" ignored="false" />
+    <ignored path="Lesson/01.androidIntent/gen/com/example/intent/R.java" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/com/example/androidDemo01/R.class" />
+    <ignored path="Lesson/01.androidIntent/gen/com/example/intent/Manifest.java" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/androidDemo01.apk" />
+    <ignored path="Lesson/01.androidIntent/gen/com/example/intent/BuildConfig.java" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/com/example/androidDemo01/BuildConfig.class" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/com/example/androidDemo01/SecondActivity.class" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/com/example/androidDemo01/IndexActivity$1.class" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/com/example/androidDemo01/R$id.class" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/com/example/androidDemo01/R$attr.class" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/com/example/androidDemo01/R$layout.class" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/com/example/androidDemo01/AndroidDemoApplication.class" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/com/example/androidDemo01/IndexActivity.class" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/com/example/androidDemo01/R$string.class" />
+    <ignored path="Lesson/01.androidIntent/out/production/androidDemo01/androidDemo01.unaligned.apk" />
+    <file path="/Dummy.txt" changelist="446bb67d-84a5-4905-91a5-a3c73ed4faed" time="1378286350156" ignored="false" />
     <file path="Z:/../opensource/android-app/project.properties" changelist="446bb67d-84a5-4905-91a5-a3c73ed4faed" time="1378175891869" ignored="false" />
     <file path="/fragment.java" changelist="446bb67d-84a5-4905-91a5-a3c73ed4faed" time="1378175770610" ignored="false" />
     <file path="Z:/../opensource/android-app/gen/net/oschina/app/R.java" changelist="446bb67d-84a5-4905-91a5-a3c73ed4faed" time="1378175891869" ignored="false" />
@@ -199,7 +162,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -296,7 +259,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -315,9 +277,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidtutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidtutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04.DianChangAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidtutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidtutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,11 +327,11 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -345,6 +340,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -373,19 +381,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -474,7 +469,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.60615885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6045381" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -491,7 +486,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24506828" sideWeight="0.39384118" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24506828" sideWeight="0.39546192" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />

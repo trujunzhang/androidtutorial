@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    <string name="app_name">企业移动客户端</string>
+    <string name="index_lable">indexActivity</string>
+    <string name="secod_lable">secondActivity</string>
+</resources>
